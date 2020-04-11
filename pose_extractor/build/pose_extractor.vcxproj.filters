@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\wrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\src\extract_poses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\src\human_pose.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\src\peak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\src\extract_poses.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\src\human_pose.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\src\peak.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F4079813-2E28-3E5C-A3D7-2AC715087C4B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AC014524-0BBB-3696-B140-64A9C8FCF298}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

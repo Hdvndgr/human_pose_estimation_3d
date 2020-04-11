@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mhboz\Desktop\human_pose_estimation_3d_demo\pose_extractor\build\CMakeFiles\8ad39642818c635bab71a1ca4b56d4b2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{668E5976-90A4-3C88-98FC-36A1D1AA9EFA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
